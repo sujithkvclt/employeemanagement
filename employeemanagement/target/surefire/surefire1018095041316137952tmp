@@ -1,0 +1,5 @@
+#surefire
+#Fri Mar 06 11:44:52 IST 2015
+user.dir=/home/sujith/Projects/training/java-training/employeemanagement
+localRepository=/home/sujith/.m2/repository
+basedir=/home/sujith/Projects/training/java-training/employeemanagement
